@@ -58,6 +58,6 @@ locations = [
             'locations.roles.zelda.gerudo',
             'locations.roles.zelda.redead'
         ]
-    },
-    
+    }
+
 ];
