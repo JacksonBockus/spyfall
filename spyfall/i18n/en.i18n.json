@@ -31,6 +31,7 @@
         "lord of the rings": "Lord of the Rings",
         "pokemon": "Pokemon",
         "zelda": "The Legend of Zelda",
+        "star wars": "Star Wars",
         "roles": {
             "game of thrones": {
                 "king": "King",
@@ -76,6 +77,15 @@
                 "kokiri": "Kokiri",
                 "gerudo": "Gerudo",
                 "redead": "ReDead"
+            },
+            "star wars": {
+                "jedi knight": "Jedi Knight",
+                "padawan": "Padawan",
+                "emperor": "Emperor",
+                "rebel": "Rebel",
+                "stormtrooper": "Stormtrooper",
+                "x wing pilot": "X-Wing Pilot",
+                "droid": "Droid"
             }
         }
     }

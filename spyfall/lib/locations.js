@@ -58,6 +58,17 @@ locations = [
             'locations.roles.zelda.gerudo',
             'locations.roles.zelda.redead'
         ]
+    },
+    {
+        name: 'locations.star wars',
+        roles: [
+            'locations.roles.star wars.jedi knight',
+            'locations.roles.star wars.padawan',
+            'locations.roles.star wars.emperor',
+            'locations.roles.star wars.rebel',
+            'locations.roles.star wars.stormtrooper',
+            'locations.roles.star wars.x wing pilot',
+            'locations.roles.star wars.droid'
+        ]
     }
-
 ];
