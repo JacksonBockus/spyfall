@@ -32,6 +32,7 @@
         "pokemon": "Pokemon",
         "zelda": "The Legend of Zelda",
         "star wars": "Star Wars",
+        "star trek": "Star Trek",
         "roles": {
             "game of thrones": {
                 "king": "King",
@@ -86,6 +87,15 @@
                 "stormtrooper": "Stormtrooper",
                 "x wing pilot": "X-Wing Pilot",
                 "droid": "Droid"
+            },
+            "star trek": {
+                "captain": "Captain",
+                "number one": "Number One",
+                "klingon": "Klingon",
+                "engineer": "Engineer",
+                "vulcan": "Vulcan",
+                "medical officer": "Medical Officer",
+                "redshirt": "Redshirt"
             }
         }
     }

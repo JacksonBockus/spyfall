@@ -70,5 +70,17 @@ locations = [
             'locations.roles.star wars.x wing pilot',
             'locations.roles.star wars.droid'
         ]
+    },
+    {
+        name: 'locations.star trek',
+        roles: [
+            'locations.roles.star trek.captain',
+            'locations.roles.star trek.number one',
+            'locations.roles.star trek.klingon',
+            'locations.roles.star trek.engineer',
+            'locations.roles.star trek.vulcan',
+            'locations.roles.star trek.medical officer',
+            'locations.roles.star trek.redshirt'
+        ]
     }
 ];
