@@ -83,4 +83,5 @@ locations = [
             'locations.roles.star trek.redshirt'
         ]
     }
+
 ];
