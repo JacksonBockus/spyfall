@@ -82,6 +82,17 @@ locations = [
             'locations.roles.star trek.medical officer',
             'locations.roles.star trek.redshirt'
         ]
+    },
+    {
+        name: 'locations.xmen',
+        roles: [
+            'locations.roles.xmen.professor x',
+            'locations.roles.xmen.wolverine',
+            'locations.roles.xmen.magneto',
+            'locations.roles.xmen.deadpool',
+            'locations.roles.xmen.rogue',
+            'locations.roles.xmen.kitty pryde',
+            'locations.roles.xmen.negasonic teenage warhead'
+        ]
     }
-
 ];

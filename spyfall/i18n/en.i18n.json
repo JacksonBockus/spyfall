@@ -33,6 +33,7 @@
         "zelda": "The Legend of Zelda",
         "star wars": "Star Wars",
         "star trek": "Star Trek",
+        "xmen" :"X-Men",
         "roles": {
             "game of thrones": {
                 "king": "King",
@@ -96,6 +97,15 @@
                 "vulcan": "Vulcan",
                 "medical officer": "Medical Officer",
                 "redshirt": "Redshirt"
+            },
+            "xmen": {
+                "professor x": "Professor X",
+                "wolverine": "Wolverine",
+                "magneto": "Magneto",
+                "deadpool": "Deadpool",
+                "rogue": "Rogue",
+                "kitty pryde": "Kitty Pryde",
+                "negasonic teenage warhead": "Negasonic Teenage Warhead"
             }
         }
     }
